@@ -1,0 +1,12 @@
+{
+    "name": "Weather_Local",
+    "description": "Collect data from various sensors",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "flows_Pi_Measure.json",
+            "credentialsFile": "flows_Pi_Measure_cred.json"
+        }
+    }
+}
